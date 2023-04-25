@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook MAC Book Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Celular Samsung S20+",
+      "price": 5000.89
+    },
+    {
+      "id": 4,
+      "name": "Geladeira Brastemp Frost Free - BRM45JK • 110V",
+      "price": "3399.89"
+    },
+    {
+      "name": "Caneta BIC Vermelha",
+      "price": "5.89",
+      "id": 5
+    },
+    {
+      "name": "Caneta BIC Azul",
+      "price": "5.89",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "Caneta BIC Roxa",
+      "price": "6.89"
+    },
+    {
+      "name": "Caneta BIC Verde",
+      "price": "6.89",
+      "id": 8
+    }
+  ]
+}
